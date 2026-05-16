@@ -59,6 +59,11 @@ SSH servisini durdurma, port değiştirme, firewall kuralı silme veya aktif SSH
 
 Bu proje saldırı, yetkisiz erişim veya güvenlik atlatma amacıyla geliştirilmemiştir. Amaç sistem yönetimi, servis kontrolü ve eğitim/laboratuvar kullanımıdır.
 
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
+
 ## Önerilen Kullanım
 
 Windows tarafında scripti yönetici yetkili PowerShell ile çalıştırın:
@@ -67,7 +72,3 @@ Windows tarafında scripti yönetici yetkili PowerShell ile çalıştırın:
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .\win-openssh-panel.ps1
 
-
-## Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
