@@ -51,12 +51,3 @@ ssh-script-windows-kali-linux/
 ├── README_TURKISH.md
 ├── README_ENGLISH.md
 └── LICENSE
-
-
-## Security Notice
-
-This toolkit is intended only for systems that you own, manage, or are explicitly authorized to administer.
-
-Changing SSH ports, stopping SSH services, modifying firewall rules, or terminating active SSH sessions may disconnect existing remote connections. Always make sure you have alternative access before applying critical changes on remote systems.
-
-This project is designed for system administration, learning, and lab usage. It is not intended for unauthorized access, exploitation, or bypassing security controls.
