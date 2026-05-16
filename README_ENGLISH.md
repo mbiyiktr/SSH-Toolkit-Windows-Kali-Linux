@@ -65,6 +65,10 @@ Operations such as stopping the SSH service, changing the SSH port, deleting fir
 
 This project is not designed for attacks, unauthorized access, or bypassing security controls. Its purpose is system administration, service control, and educational/lab usage.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Recommended Usage
 
 Run the Windows script from an elevated PowerShell session:
