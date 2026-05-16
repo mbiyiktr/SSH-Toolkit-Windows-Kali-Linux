@@ -66,3 +66,8 @@ Windows tarafında scripti yönetici yetkili PowerShell ile çalıştırın:
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .\win-openssh-panel.ps1
+
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
