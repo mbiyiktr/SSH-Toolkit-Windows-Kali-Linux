@@ -13,6 +13,14 @@ The toolkit helps administrators and learners perform common SSH management task
 
 ---
 
+## Video
+
+<p align="center">
+  <a href="https://youtu.be/taS7BoFwp1Q">
+    <img src="https://img.youtube.com/vi/taS7BoFwp1Q/maxresdefault.jpg" width="700">
+  </a>
+</p>
+
 ## Documentation
 
 🇹🇷 Türkçe dokümantasyon:  
