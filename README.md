@@ -9,6 +9,8 @@ This project includes two separate menu-based scripts:
 
 The toolkit helps administrators and learners perform common SSH management tasks such as checking service status, detecting active SSH ports, changing SSH configuration, reviewing active SSH sessions, and managing basic firewall rules.
 
+<img width="954" height="698" alt="ss-linux" src="https://github.com/user-attachments/assets/7d8885c5-7147-4159-93c6-c351487a5d78" />
+
 ---
 
 ## Documentation
